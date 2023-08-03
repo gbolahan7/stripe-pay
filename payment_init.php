@@ -7,7 +7,7 @@ require_once 'config.php';
 include_once 'dbConnect.php'; 
  
 // Include the Stripe PHP library 
-require_once './stripe-php/init.php'; 
+require_once 'stripe-php/init.php'; 
  
 require_once 'vendor/autoload.php';
 
