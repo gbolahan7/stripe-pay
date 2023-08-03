@@ -16,7 +16,7 @@ define('STRIPE_PUBLISHABLE_KEY', 'pk_test_51NawPmHwpeiZzeqVHt0kff2e7lODFULmvoxVm
 // Database configuration  
 define('DB_HOST', 'localhost');  
 define('DB_USERNAME', 'root');  
-define('DB_PASSWORD', 'root');  
-define('DB_NAME', 'codexworld'); 
+define('DB_PASSWORD', '');  
+define('DB_NAME', 'stripe-pay'); 
  
 ?>
